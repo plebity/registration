@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 
 def index():
-    return render_template('testing.html')
+    return render_template('index.html')
 
 
 
